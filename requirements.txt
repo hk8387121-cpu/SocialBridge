@@ -1,0 +1,9 @@
+Flask>=2.3.0
+networkx>=3.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+plotly>=5.14.0
+Werkzeug>=2.3.0
+python-louvain>=0.16
+pytest>=7.0.0
